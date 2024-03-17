@@ -763,6 +763,45 @@ local prices = {
   [20638] = {32,"T1.5"}; --Leggings of the Demented Mind
   [20639] = {12,"T1.5"}; --Strangely Glyphed Legplates
   [20644] = {4,"T1.5"}; --Nightmare Engulfed Object
+  
+    ------------------------------------
+    --- Emerald Sanctum (Turtle wow) ---
+    ------------------------------------
+  [61206] = {400,"T2.5"}; --Robe of the Dreamways 
+  [61211] = {216,"T2.5"}; --Sandals of Lucidity
+  [61213] = {126,"T2.5"}; --Talonwind gauntlets 
+  [61239] = {432,"T2.5"}; --Ancient Jade Leggings 
+  [41076] = {198,"T2.5"}; --Aspect of Seradane
+  [61237] = {100,"T2.5"}; --Mallet of the Awakening
+  [61238] = {342,"T2.5"}; --Scaleshield of Emerald Flight
+  [61205] = {320,"T2.5"}; --Ring of Nature's Duality
+  [61209] = {440,"T2.5"}; --Shard of Nightmare
+  [61210] = {240,"T2.5"}; --Veil of Nightmare
+  [61212] = {360,"T2.5"}; --Sanctum Bark Wraps
+  [61214] = {200,"T2.5"}; --Mantle of the Wakener
+  [61207] = {20,"T2.5"}; --Jadestone Helmet
+  [61448] = {420,"T2.5"}; --Axe of dormant slumber
+  [61208] = {360,"T2.5"}; --Staff of the dreamer
+  [61455] = {20,"T2.5"}; --Idol of the Emerald Rot
+  [61203] = {0,"T2.5"}; --Libram of the Dreamguard
+  [61204] = {20,"T2.5"}; --Totem of the Stonebreaker
+  [61215] = {420,"T2.5"}; --Head of Solnius
+  [61444] = {0,"T2.5"}; --Smoldering Dream Essence
+  [61524] = {280,"T2.5"}; --Naturecaller's Tunic
+  [61522] = {380,"T2.5"}; --Choker of the Emerald Lord
+  [61527] = {240,"T2.5"}; --Breath of solnius
+  [61523] = {684,"T2.5"}; --Crystal sword of the Blossom
+  [61525] = {420,"T2.5"}; --Nature's Call
+  [61526] = {0,"T2.5"}; --Jadestone Protector
+  [61652] = {360,"T2.5"}; --Claw of Erennius
+  [84502] = {180,"T2.5"}; --Verdant Dreamer's Boots
+  [84505] = {300,"T2.5"}; --infused Wildthorn Bracers
+  [84506] = {0,"T2.5"}; --Sleeper's Ring
+  [84504] = {0,"T2.5"}; --Lasher's whip
+  [84501] = {240,"T2.5"}; --Corrupted Reed
+  [84500] = {240,"T2.5"}; --Lucid Nightmare
+  [84509] = {20,"T2.5"}; --Emerald Rod
+  [84503] = {240,"T2.5"}; --Nature's Gift
 }
 sepgp.gp_prices = prices
 --[[local price_scaling = {
