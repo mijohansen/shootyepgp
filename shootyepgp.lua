@@ -665,7 +665,7 @@ function sepgp:delayedInit()
   self:parseVersion(sepgp._versionString)
   local major_ver = self._version.major
   if IsGuildLeader() and ( (sepgp_dbver == nil) or (major_ver > sepgp_dbver) ) then
-    sepgp[string.format("v%dtov%d",(sepgp_dbver or 2),major_ver)](sepgp)
+    --sepgp[string.format("v%dtov%d",(sepgp_dbver or 2),major_ver)](sepgp)
   end
   -- init options and comms
   self._options = self:buildMenu()
