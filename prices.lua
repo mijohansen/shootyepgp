@@ -763,6 +763,48 @@ local prices = {
   [20638] = {32,"T1.5"}; --Leggings of the Demented Mind
   [20639] = {12,"T1.5"}; --Strangely Glyphed Legplates
   [20644] = {4,"T1.5"}; --Nightmare Engulfed Object
+  
+    ------------------------------------
+    --- Emerald Sanctum (Turtle wow) ---
+    ------------------------------------
+  [61206] = {89,"T2.5"}; --Robe of the Dreamways 
+  [61211] = {48,"T2.5"}; --Sandals of Lucidity
+  [61213] = {28,"T2.5"}; --Talonwind gauntlets 
+  [61239] = {96,"T2.5"}; --Ancient Jade Leggings 
+  [41076] = {44,"T2.5"}; --Aspect of Seradane
+  [61237] = {22,"T2.5"}; --Mallet of the Awakening
+  [61238] = {76,"T2.5"}; --Scaleshield of Emerald Flight
+  [61205] = {71,"T2.5"}; --Ring of Nature's Duality
+  [61209] = {98,"T2.5"}; --Shard of Nightmare
+  [61210] = {53,"T2.5"}; --Veil of Nightmare
+  [61212] = {80,"T2.5"}; --Sanctum Bark Wraps
+  [61214] = {44,"T2.5"}; --Mantle of the Wakener
+  [61207] = {4,"T2.5"}; --Jadestone Helmet
+  [61448] = {93,"T2.5"}; --Axe of dormant slumber
+  [61208] = {80,"T2.5"}; --Staff of the dreamer
+  [61455] = {4,"T2.5"}; --Idol of the Emerald Rot
+  [61203] = {0,"T2.5"}; --Libram of the Dreamguard
+  [61204] = {4,"T2.5"}; --Totem of the Stonebreaker
+  [61215] = {93,"T2.5"}; --Head of Solnius
+  [61444] = {0,"T2.5"}; --Smoldering Dream Essence
+
+  [61524] = {62,"T2.5"}; --Naturecaller's Tunic
+  [61522] = {84,"T2.5"}; --Choker of the Emerald Lord
+  [61527] = {53,"T2.5"}; --Breath of solnius
+  [61523] = {152,"T2.5"}; --Crystal sword of the Blossom
+  [61525] = {93,"T2.5"}; --Nature's Call
+  [61526] = {0,"T2.5"}; --Jadestone Protector
+
+  [61652] = {80,"T2.5"}; --Claw of Erennius
+  
+  [84502] = {40,"T2.5"}; --Verdant Dreamer's Boots
+  [84505] = {67,"T2.5"}; --infused Wildthorn Bracers
+  [84506] = {0,"T2.5"}; --Sleeper's Ring
+  [84504] = {0,"T2.5"}; --Lasher's whip
+  [84501] = {53,"T2.5"}; --Corrupted Reed
+  [84500] = {53,"T2.5"}; --Lucid Nightmare
+  [84509] = {4,"T2.5"}; --Emerald Rod
+  [84503] = {53,"T2.5"}; --Nature's Gift
 }
 sepgp.gp_prices = prices
 --[[local price_scaling = {
