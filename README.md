@@ -4,7 +4,11 @@ Guild Helper addon for EPGP loot system in WoW (1.12)
 ## setup
 shootyepgp requires some modifications to guild permissions for officer notes by the guild leader.  
 
-### Version 3.x (current)
+### Version 4.x (current)
+- version created for Vendetta on turtle wow
+
+
+### Version 3.x
 - officer notes must be set to visible by all and editable **only** by the EPGP admins (eg. officer rank+)
 - public notes are not in use by the addon
 
